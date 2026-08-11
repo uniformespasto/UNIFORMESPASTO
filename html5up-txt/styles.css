@@ -202,6 +202,6 @@ img{max-width:100%}
   .brand-grid{grid-template-columns:1fr 1fr}
 }
 .brand-logo{
-    width:140px;
+    width:120px;
     height:auto;
 }
